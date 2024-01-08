@@ -1,4 +1,4 @@
-# 🌿 Contributions in Other Repos
+# 🌿 Contributions in Other User's Repos
 
 #### [Tiddi](https://github.com/KunalSin9h/tiddi) by [Kunal Singh](https://github.com/KunalSin9h/) (Golang)
 - Redesigned the User Interface
